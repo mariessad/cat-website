@@ -611,6 +611,10 @@ footer p {
   margin-top: 1rem;
   color: #ef027d;
 }
+
+.about a:hover {
+  color: white;
+}
 /*--------------Media Query resizing ----------------------------------*/
 
 /*phones*/
